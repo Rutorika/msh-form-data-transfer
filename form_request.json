@@ -1,0 +1,79 @@
+{
+  "base_info_form": {
+    "shipper_person_name": "Иванов Иван Иванович",
+    "shipper_person_phone": "+7 928 888 99 22",
+    "shipper_person_email": "ship@company.com",
+    "shipper_role": "299581e8-c716-11e8-8119-3c4a9271083c"
+  },
+  "gu12_form": {
+    "company_name": "ООО \"Кубань посей зерно\"",
+    "okpo": "1231231hf23123",
+    "gu12_number": "234234",
+    "esr": "123333409",
+    "etsng": "23232434",
+    "cargo_amount": 2343.23,
+    "mailing_address": "350000, г. Краснодар, ул. Зиповская 5/33",
+    "files_id": "file5bf23e9"
+  },
+  "harvest_data_form": [
+    {
+      "okud": 4939394,
+      "date": "2019-08-21",
+      "actual_harvest": 232.22,
+      "okpo": "234234234234dsf",
+      "files_id": "file5bf23e9"
+    },
+    {
+      "okud": 4939394,
+      "date": "2019-08-21",
+      "actual_harvest": 232.22,
+      "okpo": "234234234234dsf",
+      "files_id": "file5bf23e9"
+    },
+    {
+      "okud": 4939394,
+      "date": "2019-08-21",
+      "actual_harvest": 232.22,
+      "okpo": "234234234234dsf",
+      "files_id": "file5bf23e9"
+    }
+  ],
+  "sale_contract_data_form": [
+    {
+      "number": "2323dd",
+      "date": "2019-05-20",
+      "nomenclature": "зерно из зерна",
+      "goods_amout": 2323,
+      "amount_error": 12,
+      "price": 123123.22,
+      "nds": false,
+      "files_id": "file5bf23e9"
+    },
+    {
+      "number": "2323dd",
+      "date": "2019-05-20",
+      "nomenclature": "зерно из зерна",
+      "goods_amout": 2323,
+      "amount_error": 12,
+      "price": 123123.22,
+      "nds": false,
+      "files_id": "file5bf23e9"
+    },
+    {
+      "number": "2323dd",
+      "date": "2019-05-20",
+      "nomenclature": "зерно из зерна",
+      "goods_amout": 2323,
+      "amount_error": 12,
+      "price": 123123.22,
+      "nds": false,
+      "files_id": "file5bf23e9"
+    }
+  ],
+  "transportation_contract_data_form": {
+    "number": "23423434",
+    "date": "2019-05-20",
+    "inn": "299581e8-c716-11e8-8119-3c4a9271083c",
+    "files_id": "file5bf23e9"
+  }
+}
